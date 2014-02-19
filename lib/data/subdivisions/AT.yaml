@@ -41,4 +41,6 @@
 ? "9"
 :
   name: Wien
-  names: Wien
+  names: 
+    - Wien
+    - Vienna
