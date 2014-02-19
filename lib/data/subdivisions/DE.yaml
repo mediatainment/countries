@@ -10,7 +10,9 @@ BE:
     - Berlín
 BW:
   name: Baden-Württemberg
-  names: Baden-Württemberg
+  names: 
+    - Baden-Württemberg
+    - Baden-Wurttemberg
 BY:
   name: Bayern
   names:
@@ -67,3 +69,4 @@ TH:
   name: Thüringen
   names:
     - Thüringen
+    - Thuringen
