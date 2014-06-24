@@ -80,7 +80,9 @@ L:
     - Lérida
 LE:
   name: León
-  names: León
+  names: 
+    - León
+    - "Castile and León"
 LO:
   name: "La Rioja"
   names:
