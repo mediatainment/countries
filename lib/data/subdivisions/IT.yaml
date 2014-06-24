@@ -314,7 +314,9 @@ VC:
   names: Vercelli
 VE:
   name: Venezia
-  names: Venezia
+  names: 
+    - Venezia
+    - "Friuli-Venezia"
 VI:
   name: Vicenza
   names: Vicenza
