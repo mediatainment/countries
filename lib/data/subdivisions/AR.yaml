@@ -51,7 +51,9 @@ R:
   names: "Río Negro"
 S:
   name: "Santa Fe"
-  names: "Santa Fe"
+  names: 
+    - "Santa Fe"
+    - "Santa Fe Province"
 T:
   name: Tucumán
   names: Tucumán
