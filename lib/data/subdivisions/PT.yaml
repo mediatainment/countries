@@ -29,7 +29,9 @@
   names: Évora
 08:
   name: Faro
-  names: Faro
+  names: 
+    - Faro
+    - "Faro District"
 09:
   name: Guarda
   names: Guarda
