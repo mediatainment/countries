@@ -34,7 +34,9 @@ PK:
   names: Podkarpackie
 PM:
   name: Pomorskie
-  names: Pomorskie
+  names: 
+    - Pomorskie
+    - "Pomeranian Voivodeship"
 SK:
   name: Swietokrzyskie
   names:
