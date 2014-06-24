@@ -92,7 +92,9 @@ LU:
   names: Lugo
 M:
   name: Madrid
-  names: Madrid
+  names: 
+    - Madrid
+    - "Community of Madrid"
 MA:
   name: Málaga
   names: Málaga
