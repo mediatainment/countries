@@ -159,7 +159,9 @@ TO:
   names: Toledo
 V:
   name: Valencia
-  names: Valencia
+  names: 
+    - Valencia
+    - Valencian
 VA:
   name: Valladolid
   names: Valladolid
