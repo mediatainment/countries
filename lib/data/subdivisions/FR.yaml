@@ -247,7 +247,9 @@
 ? "62"
 :
   name: Pas-de-Calais
-  names: Pas-de-Calais
+  names: 
+    - Pas-de-Calais
+    - Nord-Pas-de-Calais
 ? "63"
 :
   name: Puy-de-Dôme
