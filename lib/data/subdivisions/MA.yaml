@@ -28,7 +28,9 @@ BOD:
   names: "Boujdour (EH)"
 BOM:
   name: Boulemane
-  names: Boulemane
+  names: 
+    - Boulemane
+    - Fes-Boulemane
 CAS:
   name: "Casablanca [Dar el Beïda]*"
   names: "Casablanca [Dar el Beïda]*"
