@@ -96,10 +96,15 @@ SK:
   names: Szolnok
 SN:
   name: Sopron
-  names: Sopron
+  names: 
+    - Sopron
+    - "Gyõr-Moson-Sopron"
+    - "Gyor-Moson-Sopron"
 SO:
   name: Somogy
-  names: Somogy
+  names: 
+    - Somogy
+    - "Somogy County"
 SS:
   name: Szekszárd
   names: Szekszárd
@@ -114,7 +119,9 @@ TB:
   names: Tatabánya
 TO:
   name: Tolna
-  names: Tolna
+  names: 
+    - Tolna
+    - "Tolna County"
 VA:
   name: Vas
   names: Vas
@@ -128,7 +135,9 @@ VM:
     - Veszprem
 ZA:
   name: Zala
-  names: Zala
+  names: 
+    - Zala
+    - "Zala County"
 ZE:
   name: Zalaegerszeg
   names: Zalaegerszeg
