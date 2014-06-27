@@ -76,7 +76,9 @@ NY:
   names: Nyíregyháza
 PE:
   name: Pest
-  names: Pest
+  names: 
+    - Pest
+    - "Pest County"
 PS:
   name: Pécs
   names: Pécs
