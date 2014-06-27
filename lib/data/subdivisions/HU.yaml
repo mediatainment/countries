@@ -7,7 +7,9 @@ BC:
   names: Békéscsaba
 BE:
   name: Békés
-  names: Békés
+  names: 
+    - Békés
+    - "Békés County"
 BK:
   name: Bács-Kiskun
   names: Bács-Kiskun
@@ -124,7 +126,9 @@ TO:
     - "Tolna County"
 VA:
   name: Vas
-  names: Vas
+  names: 
+    - Vas
+    - "Vas County"
 VE:
   name: Veszprém
   names: Veszprém
