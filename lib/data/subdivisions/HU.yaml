@@ -121,7 +121,9 @@ VE:
   names: Veszprém
 VM:
   name: Veszprém
-  names: Veszprém
+  names: 
+    - Veszprém
+    - Veszprem
 ZA:
   name: Zala
   names: Zala
