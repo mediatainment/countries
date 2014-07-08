@@ -65,9 +65,12 @@ SN:
   name: Sachsen
   names:
     - Sachsen
+    - Saxony
 ST:
   name: Sachsen-Anhalt
-  names: Sachsen-Anhalt
+  names: 
+    - Sachsen-Anhalt
+    - Saxony-Anhalt
 TH:
   name: Thüringen
   names:
