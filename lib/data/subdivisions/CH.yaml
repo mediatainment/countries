@@ -1,25 +1,25 @@
 ---
 AG:
-  name: "Aargau (de)"
+  name: "Aargau"
   names:
     - Argovie
 AI:
-  name: "Appenzell Innerrhoden (de)"
-  names: "Appenzell Innerrhoden (de)"
+  name: "Appenzell Innerrhoden"
+  names: "Appenzell Innerrhoden"
 AR:
-  name: "Appenzell Ausserrhoden (de)"
+  name: "Appenzell Ausserrhoden"
   names:
     - "Appenzell-Ausser Rhoden"
 BE:
-  name: "Bern (de)"
+  name: "Bern"
   names:
     - Berne
 BL:
-  name: "Basel-Landschaft (de)"
+  name: "Basel-Landschaft"
   names:
     - Bâle-Campagne
 BS:
-  name: "Basel-Stadt (de)"
+  name: "Basel-Stadt"
   names:
     - Basel
     - Basilea
@@ -27,90 +27,93 @@ BS:
     - Basel-Stadt
     - Bâle-Ville
 FR:
-  name: "Fribourg (fr)"
+  name: "Fribourg"
   names:
     - Freiburg
 GE:
-  name: "Genève (fr)"
+  name: "Genève"
   names:
     - Ginevra
     - Genève
     - Genf
     - Ginebra
 GL:
-  name: "Glarus (de)"
+  name: "Glarus"
   names:
     - Glaris
 GR:
-  name: "Graubünden (de)"
+  name: "Graubünden"
   names:
     - Grigioni
     - Grisons
+    - Graubunden
+    - Graubuenden
 JU:
-  name: "Jura (fr)"
-  names: "Jura (fr)"
+  name: "Jura"
+  names: "Jura"
 LU:
-  name: "Luzern (de)"
+  name: "Luzern"
   names:
     - Lucerna
     - Lucerne
 NE:
-  name: "Neuchâtel (fr)"
+  name: "Neuchâtel"
   names:
     - Neuenburg
+    - Neuchatel
 NW:
-  name: "Nidwalden (de)"
+  name: "Nidwalden"
   names:
     - Nidwald
 OW:
-  name: "Obwalden (de)"
+  name: "Obwalden"
   names:
     - Obwald
 SG:
-  name: "Sankt Gallen (de)"
+  name: "Sankt Gallen"
   names:
     - "Saint Galle"
     - "Sankt Gallen"
     - Saint-Gall
     - "St. Gallen"
 SH:
-  name: "Schaffhausen (de)"
+  name: "Schaffhausen"
   names:
     - Schaffhouse
 SO:
-  name: "Solothurn (de)"
+  name: "Solothurn"
   names:
     - Soleure
 SZ:
-  name: "Schwyz (de)"
-  names: "Schwyz (de)"
+  name: "Schwyz"
+  names: "Schwyz"
 TG:
-  name: "Thurgau (de)"
+  name: "Thurgau"
   names:
     - Thurgovie
 TI:
-  name: "Ticino (it)"
+  name: "Ticino"
   names:
     - Tessin
     - Tessin
 UR:
-  name: "Uri (de)"
-  names: "Uri (de)"
+  name: "Uri"
+  names: "Uri"
 VD:
-  name: "Vaud (fr)"
+  name: "Vaud"
   names:
     - Waadt
 VS:
-  name: "Valais (fr)"
+  name: "Valais"
   names:
     - Vallese
     - Wallis
 ZG:
-  name: "Zug (de)"
+  name: "Zug"
   names:
     - Zoug
 ZH:
-  name: "Zürich (de)"
+  name: "Zürich"
   names:
     - Zurigo
     - Zürich
