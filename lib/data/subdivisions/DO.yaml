@@ -2,8 +2,9 @@
 ? "01"
 :
   name: "Distrito Nacional (Santo Domingo)"
-  names: "Distrito Nacional (Santo Domingo)"
-? "02"
+  names: 
+    - "Distrito Nacional"
+    - "National District"
 :
   name: Azua
   names: Azua
