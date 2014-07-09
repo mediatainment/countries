@@ -19,7 +19,9 @@ PB:
   names: Punjab
 SD:
   name: "Sind"
-  names: "Sind"
+  names: 
+    - "Sind"
+    - Sindh
 TA:
   name: "Federally Administered Tribal Areas"
   names: "Federally Administered Tribal Areas"
