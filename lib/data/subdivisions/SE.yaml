@@ -4,7 +4,9 @@ AB:
   names: "Stockholms län"
 AC:
   name: "Västerbottens län"
-  names: "Västerbottens län"
+  names: 
+    - "Västerbottens län"
+    - "Västra Götaland"
 BD:
   name: "Norrbottens län"
   names: "Norrbottens län"
