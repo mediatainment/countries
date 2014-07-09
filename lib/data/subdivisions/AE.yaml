@@ -13,7 +13,9 @@ AZ:
     - "Abu Dhabi"
 DU:
   name: "Dubayy [Dubai]"
-  names: "Dubayy [Dubai]"
+  names: 
+    - "Dubayy [Dubai]"
+    - Dubai
 FU:
   name: "Al Fujayrah"
   names: "Al Fujayrah"
