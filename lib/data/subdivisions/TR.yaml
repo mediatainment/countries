@@ -26,7 +26,9 @@
 ? "06"
 :
   name: Ankara
-  names: Ankara
+  names: 
+    - Ankara
+    - "Ankara Province"
 ? "07"
 :
   name: Antalya
@@ -147,6 +149,7 @@
   name: Istanbul
   names:
     - Istanbul
+    - "Istanbul Province"
 ? "35"
 :
   name: Izmir
