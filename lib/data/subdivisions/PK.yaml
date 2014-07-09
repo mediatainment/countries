@@ -1,7 +1,7 @@
 ---
 BA:
-  name: "Baluchistan (en)"
-  names: "Baluchistan (en)"
+  name: "Baluchistan"
+  names: "Baluchistan"
 IS:
   name: Islamabad
   names: Islamabad
@@ -18,8 +18,8 @@ PB:
   name: Punjab
   names: Punjab
 SD:
-  name: "Sind (en)"
-  names: "Sind (en)"
+  name: "Sind"
+  names: "Sind"
 TA:
   name: "Federally Administered Tribal Areas"
   names: "Federally Administered Tribal Areas"
