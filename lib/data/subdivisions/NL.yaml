@@ -25,7 +25,9 @@ NB:
   names: Noord-Brabant
 NH:
   name: Noord-Holland
-  names: Noord-Holland
+  names: 
+    - Noord-Holland
+    - "North Holland"
 OV:
   name: Overijssel
   names: Overijssel
