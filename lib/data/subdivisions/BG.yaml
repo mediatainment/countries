@@ -2,7 +2,9 @@
 ? "01"
 :
   name: Blagoevgrad
-  names: Blagoevgrad
+  names: 
+    - Blagoevgrad
+    - "Blagoevgrad Province"
 ? "02"
 :
   name: Burgas
@@ -84,7 +86,9 @@
 ? "22"
 :
   name: Sofia-Grad
-  names: Sofia-Grad
+  names: 
+    - Sofia-Grad
+    - Sofija-Grad
 ? "23"
 :
   name: Sofia
