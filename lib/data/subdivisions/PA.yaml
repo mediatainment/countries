@@ -35,7 +35,9 @@
 ? "8"
 :
   name: Panamá
-  names: Panamá
+  names: 
+    - Panamá
+    - "Panama"
 ? "9"
 :
   name: Veraguas
