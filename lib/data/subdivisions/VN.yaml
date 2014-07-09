@@ -217,7 +217,9 @@
 ? "64"
 :
   name: "Ha Noi, thu do"
-  names: "Ha Noi, thu do"
+  names: 
+    - "Ha Noi, thu do"
+    - Hanoi
 ? "65"
 :
   name: "Ho Chi Minh, thanh pho [Sai Gon]"
