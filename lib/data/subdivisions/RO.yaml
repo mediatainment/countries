@@ -46,7 +46,9 @@ BZ:
     - Buzau
 CJ:
   name: Cluj
-  names: Cluj
+  names: 
+    - Cluj
+    - "Cluj County"
 CL:
   name: Calarasi
   names:
