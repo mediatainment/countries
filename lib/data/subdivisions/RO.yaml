@@ -73,10 +73,14 @@ DB:
     - Dîmboviţa
 DJ:
   name: Dolj
-  names: Dolj
+  names: 
+    - Dolj
+    - "Dolj County"
 GJ:
   name: Gorj
-  names: Gorj
+  names: 
+    - Gorj
+    - "Gory County"
 GL:
   name: Galati
   names:
