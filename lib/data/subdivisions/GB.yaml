@@ -35,15 +35,6 @@ BBD:
 BDF:
   name: Bedfordshire
   names: Bedfordshire
-BDG:
-  name: "Barking and Dagenham"
-  names: "Barking and Dagenham"
-BEN:
-  name: Brent
-  names: Brent
-BEX:
-  name: Bexley
-  names: Bexley
 BFS:
   name: Belfast
   names: Belfast
@@ -72,9 +63,6 @@ BMH:
 BNB:
   name: Banbridge
   names: Banbridge
-BNE:
-  name: Barnet
-  names: Barnet
 BNH:
   name: "Brighton and Hove"
   names: "Brighton and Hove"
@@ -93,9 +81,6 @@ BRC:
 BRD:
   name: Bradford
   names: Bradford
-BRY:
-  name: Bromley
-  names: Bromley
 BST:
   name: "Bristol, City of"
   names:
@@ -137,9 +122,6 @@ CLR:
 CMA:
   name: Cumbria
   names: Cumbria
-CMD:
-  name: Camden
-  names: Camden
 CMN:
   name: "Carmarthenshire [Sir Gaerfyrddin GB-GFY]"
   names:
@@ -155,9 +137,6 @@ CRF:
   name: "Cardiff [Caerdydd GB-CRD]"
   names:
     - Caerdydd
-CRY:
-  name: Croydon
-  names: Croydon
 CSR:
   name: Castlereagh
   names: Castlereagh
@@ -209,9 +188,6 @@ DUD:
 DUR:
   name: Durham
   names: Durham
-EAL:
-  name: Ealing
-  names: Ealing
 EAY:
   name: "East Ayrshire"
   names: "East Ayrshire"
@@ -229,9 +205,6 @@ ELS:
   name: "Eilean Siar"
   names:
     - "Western Isles"
-ENF:
-  name: Enfield
-  names: Enfield
 ERW:
   name: "East Renfrewshire"
   names: "East Renfrewshire"
@@ -267,9 +240,6 @@ GLG:
 GLS:
   name: Gloucestershire
   names: Gloucestershire
-GRE:
-  name: Greenwich
-  names: Greenwich
 GWN:
   name: Gwynedd
   names: Gwynedd
@@ -279,55 +249,28 @@ HAL:
 HAM:
   name: Hampshire
   names: Hampshire
-HAV:
-  name: Havering
-  names: Havering
-HCK:
-  name: Hackney
-  names: Hackney
 HEF:
   name: "Herefordshire, County of"
   names:
     - "County of Herefordshire"
-HIL:
-  name: Hillingdon
-  names: Hillingdon
 HLD:
   name: Highland
   names: Highland
-HMF:
-  name: "Hammersmith and Fulham"
-  names: "Hammersmith and Fulham"
-HNS:
-  name: Hounslow
-  names: Hounslow
 HPL:
   name: Hartlepool
   names: Hartlepool
 HRT:
   name: Hertfordshire
   names: Hertfordshire
-HRW:
-  name: Harrow
-  names: Harrow
-HRY:
-  name: Haringey
-  names: Haringey
 IOS:
   name: "Isles of Scilly"
   names: "Isles of Scilly"
 IOW:
   name: "Isle of Wight"
   names: "Isle of Wight"
-ISL:
-  name: Islington
-  names: Islington
 IVC:
   name: Inverclyde
   names: Inverclyde
-KEC:
-  name: "Kensington and Chelsea"
-  names: "Kensington and Chelsea"
 KEN:
   name: Kent
   names: Kent
@@ -338,18 +281,12 @@ KHL:
 KIR:
   name: Kirklees
   names: Kirklees
-KTT:
-  name: "Kingston upon Thames"
-  names: "Kingston upon Thames"
 KWL:
   name: Knowsley
   names: Knowsley
 LAN:
   name: Lancashire
   names: Lancashire
-LBH:
-  name: Lambeth
-  names: Lambeth
 LCE:
   name: Leicester
   names: Leicester
@@ -359,9 +296,6 @@ LDS:
 LEC:
   name: Leicestershire
   names: Leicestershire
-LEW:
-  name: Lewisham
-  names: Lewisham
 LIN:
   name: Lincolnshire
   names: Lincolnshire
@@ -372,8 +306,8 @@ LMV:
   name: Limavady
   names: Limavady
 LND:
-  name: "London, City of"
-  names: "London, City of"
+  name: London
+  names: London
 LRN:
   name: Larne
   names: Larne
@@ -405,9 +339,6 @@ MON:
   name: "Monmouthshire [Sir Fynwy GB-FYN]"
   names:
     - "Sir Fynwy"
-MRT:
-  name: Merton
-  names: Merton
 MRY:
   name: Moray
   names: Moray
@@ -464,9 +395,6 @@ NTT:
 NTY:
   name: "North Tyneside"
   names: "North Tyneside"
-NWM:
-  name: Newham
-  names: Newham
 NWP:
   name: "Newport [Casnewydd GB-CNW]"
   names:
@@ -521,18 +449,12 @@ RCT:
   name: "Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]"
   names:
     - "Rhondda Cynon TÃ¢f"
-RDB:
-  name: Redbridge
-  names: Redbridge
 RDG:
   name: Reading
   names: Reading
 RFW:
   name: Renfrewshire
   names: Renfrewshire
-RIC:
-  name: "Richmond upon Thames"
-  names: "Richmond upon Thames"
 ROT:
   name: Rotherham
   names: Rotherham
@@ -606,9 +528,6 @@ STG:
 STH:
   name: Southampton
   names: Southampton
-STN:
-  name: Sutton
-  names: Sutton
 STS:
   name: Staffordshire
   names: Staffordshire
@@ -647,9 +566,6 @@ TOF:
 TRF:
   name: Trafford
   names: Trafford
-TWH:
-  name: "Tower Hamlets"
-  names: "Tower Hamlets"
 VGL:
   name: "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]"
   names:
@@ -663,9 +579,6 @@ WBK:
 WDU:
   name: "West Dunbartonshire"
   names: "West Dunbartonshire"
-WFT:
-  name: "Waltham Forest"
-  names: "Waltham Forest"
 WGN:
   name: Wigan
   names: Wigan
@@ -684,9 +597,6 @@ WLN:
 WLV:
   name: Wolverhampton
   names: Wolverhampton
-WND:
-  name: Wandsworth
-  names: Wandsworth
 WNM:
   name: "Windsor and Maidenhead"
   names: "Windsor and Maidenhead"
@@ -706,9 +616,6 @@ WRX:
   name: "Wrexham [Wrecsam GB-WRC]"
   names:
     - Wrecsam
-WSM:
-  name: Westminster
-  names: Westminster
 WSX:
   name: "West Sussex"
   names: "West Sussex"
