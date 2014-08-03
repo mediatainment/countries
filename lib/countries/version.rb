@@ -1,3 +1,3 @@
 module Countries
-  VERSION = "0.9.81"
+  VERSION = "0.9.82"
 end
