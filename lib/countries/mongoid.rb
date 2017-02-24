@@ -12,10 +12,8 @@ class ISO3166::Country
     def mongoize(country)
       if country.is_a?(self) && !country.data.nil?
         country.alpha2
-      elsif self.send(:valid_alpha2?, country)
+      elsif send(:valid_alpha2?, country)
         new(country).alpha2
-      else
-        raise BadMongoidTypeError.new('Given value is neither a valid country object nor a valid alpha2 code')
       end
     end
 
