@@ -47,8 +47,10 @@
   names: "Tiba [Chiba]"
 ? "13"
 :
-  name: "Tôkyô [Tokyo]"
+  name: "Tokyo"
   names:
+    - Tokyo
+    - Tôkyô
     - Tokyo
     - Tokio
 ? "14"
